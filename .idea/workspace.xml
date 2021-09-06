@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="ff18d2b4-393e-475f-ba3e-56d943afc328" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/src/components/ChannelListContainer.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/ChannelListContainer.jsx" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/components/index.js" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/index.js" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/TeamMessage.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/TeamMessage.jsx" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/components/UserList.jsx" beforeDir="false" afterPath="$PROJECT_DIR$/src/components/UserList.jsx" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,6 +19,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -33,7 +34,14 @@
       <option name="presentableId" value="Default" />
       <updated>1630593539378</updated>
       <workItem from="1630593545323" duration="25000" />
+      <workItem from="1630939102325" duration="672000" />
     </task>
     <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
 </project>
